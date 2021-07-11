@@ -29,6 +29,8 @@ The app and its content are designed by Hien Nguyen, an experienced Operations E
 The content and questions are made by our knowledge and experiences as well as the following references:
  
 •	Pyzdek, T., & Keller, P. (2010). The six sigma handbook: A complete guide for green belts, black belts, and managers at all levels (3rd ed.). New York, NY: McGraw-Hill Medical.
+
 •	Kubiak, T. M. (2009). The certified six SIGMA black belt handbook (2nd ed.). ASQ Quality Press.
+
 •	Quality Council of Indiana (2001). The certified six sigma black belt primer (1st ed.). West Terre Haute, Indiana
 
