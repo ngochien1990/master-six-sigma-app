@@ -6,7 +6,7 @@ OVERVIEW:
 
 MASTER LEAN SIX SIGMA android app contains a targeted curriculum of 999 questions addressing key topics of Lean Six SIgma. This curriculum is regularly updated online to ensure the latest knowledge in the field.
 
-Each question is grouped in all approriate levels  of Lean Six Sigma, ranging from White Belt, Yellow, Green, Lean practitioner, Black Belt to Master Black Belt. More importantly, each question is paired with an explanatory answer, which is designed to help the learner master crucial learning points. The app designer and content editor was Hien Nguyen, an experienced Operations Excellence manager who holds an certified Six Sigma Black Belt and works as PhD researcher in Mondragon Universitatea- Basque-Spain, and Cuong Nguyen, a Lean Six Simga Specialist
+Each question is grouped in all approriate levels  of Lean Six Sigma, ranging from White Belt, Yellow, Green, Lean practitioner, Black Belt to Master Black Belt. More importantly, each question is paired with an explanatory answer, which is designed to help the learner master crucial learning points. The app designer and content editor was Hien Nguyen, an experienced Operations Excellence manager who holds an certified Six Sigma Black Belt and works as PhD researcher in Mondragon Universitatea- Basque-Spain, and Cuong Nguyen, a Lean Six Simga Specialist.
 
 FEATURES:
 
