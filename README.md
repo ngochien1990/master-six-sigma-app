@@ -26,7 +26,7 @@ REFERENCES:
  
 The app and its content are designed by Hien Nguyen, an experienced Operations Excellence manager who holds a certified Lean Six Sigma Black Belt and works as Researcher in Mondragon Universitatea- Basque-Spain, and Cuong Nguyen, a Lean Six Sigma Specialist.
  
-The content and questions are made by our knowledge and experiences as well as the following references:
+The content and questions are made by our knowledge and experiences that are influenced by the following references:
  
 •	Pyzdek, T., & Keller, P. (2010). The six sigma handbook: A complete guide for green belts, black belts, and managers at all levels (3rd ed.). New York, NY: McGraw-Hill Medical.
 
