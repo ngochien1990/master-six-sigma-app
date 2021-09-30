@@ -1,6 +1,6 @@
 # Android App - Master Six Sigma
-# Play Store: https://play.google.com/store/apps/details?id=org.leanhelper.mastersixsigma
-# Introduction video: https://www.youtube.com/watch?v=7iUMpVgETcA
+### Play Store: https://play.google.com/store/apps/details?id=org.leanhelper.mastersixsigma
+### Introduction video: https://www.youtube.com/watch?v=7iUMpVgETcA
 
 Get triple the value by "LEARNING" and "PLAYING" at "COST EFFECTIVE" with MASTER LEAN SIX SIGMA QUESTIONS and ANSWERS apps for Android!
  
