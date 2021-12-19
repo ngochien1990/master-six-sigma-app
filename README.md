@@ -26,7 +26,7 @@ You can visit me at: https://orcid.org/0000-0003-4618-9462
  
 REFERENCES:
  
-The app and its content are designed by Hien Nguyen, an experienced Operations Excellence manager who holds a certified Lean Six Sigma Black Belt and works as Researcher in Mondragon Universitatea- Basque-Spain, and Cuong Nguyen, a Lean Six Sigma Specialist.
+The app and its content are designed by Hien Nguyen, an experienced Operations Excellence manager who holds a certified Master Lean Six Sigma Black Belt (ISO13053) and works as Researcher in Mondragon Universitatea- Basque-Spain, and Cuong Nguyen, a Lean Six Sigma Black Belt Specialist.
  
 The content and questions are made by our knowledge and experiences that are influenced by literature, such as:
  
