@@ -36,3 +36,8 @@ The content and questions are made by our knowledge and experiences that are inf
 
 •	Quality Council of Indiana (2001). The certified six sigma black belt primer (1st ed.). West Terre Haute, Indiana
 
+### Other publications:
+	
+Assistant 4 Lean Six Sigma: https://play.google.com/store/apps/details?id=lean.helper.lssmethodsassistant
+
+Khai thác dữ liệu với R (Data Exploration with R): https://tiki.vn/khai-thac-du-lieu-voi-r-p121174018.html?spid=121174019
