@@ -41,3 +41,5 @@ The content and questions are made by our knowledge and experiences that are inf
 Assistant 4 Lean Six Sigma: https://play.google.com/store/apps/details?id=lean.helper.lssmethodsassistant
 
 Khai thác dữ liệu với R (Data Exploration with R): https://tiki.vn/khai-thac-du-lieu-voi-r-p121174018.html?spid=121174019
+
+Khóa học trực tuyến Lean Six Sigma Cấp độ Đai Trắng (White Belt): https://unica.vn/ung-dung-lean-six-sigma-trong-cai-tien-san-xuat-va-dich-vu-cap-do-dai-trang-white-belt?aff=651035
